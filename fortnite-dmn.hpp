@@ -22,6 +22,8 @@ namespace fortnite_dmn_driverless
 
 	/*
 	* kdm (driverless) function requests & pd8 (cr3 caching) r/w
+ 	* VIRTUAL MEMORY
+  	* version: 1.0.3
 	*/
 	std::uintptr_t fortnite_dmn_signed[312] =
 	{
