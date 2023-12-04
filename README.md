@@ -12,3 +12,6 @@ Attach to a process with hiarchy privs, such as Fortnite/EOS/BE.
 A unique way of implementing the shellcode to the function possibly a more stable one. 
 Improve pd8 caching and possibly switch to pml4 entries.
 Give public documenation to the Fortnite-Dmn-Signed and allow for others to add public commits.
+
+# notes-before-using
+I was given permission by my other developer friend before posting this yes this is the real working deal however its our first protype and not the latest version this version does not contain physical read/write. 
