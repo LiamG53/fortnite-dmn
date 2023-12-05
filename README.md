@@ -15,3 +15,8 @@ Give public documenation to the Fortnite-Dmn-Signed and allow for others to add 
 
 # notes-before-using
 I was given permission by my other developer friend before posting this yes this is the real working deal however its our first protype and not the latest version this version does not contain physical read/write. 
+
+# updates
+Releasing the full-working version tmw afternoon, containing the full physical extraction of NTDLL, and import finder. Also containg documentation for things and the physical image of the NTDLL file reader. 
+Posting the virtual/physical fortnite-dmn versions which can be changed depending on you. Adding full support for updates/improvements plus the POC screenshots of it fully working with EOS running.
+Posting Read/Write/Base/Get Guarded Region/Get PEB/Set Protect/ features as well for all games.
