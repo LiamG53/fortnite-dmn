@@ -20,3 +20,6 @@ I was given permission by my other developer friend before posting this yes this
 Releasing the full-working version tmw afternoon, containing the full physical extraction of NTDLL, and import finder. Also containg documentation for things and the physical image of the NTDLL file reader. 
 Posting the virtual/physical fortnite-dmn versions which can be changed depending on you. Adding full support for updates/improvements plus the POC screenshots of it fully working with EOS running.
 Posting Read/Write/Base/Get Guarded Region/Get PEB/Set Protect/ features as well for all games.
+
+#errors-constant-improvements
+Investigating an error where some Read calls return (out of bound) ptrs/values. May be do to a virtual memory error. Might release the full physical version idk.
